@@ -1,6 +1,6 @@
 # Nokiatis Launcher — Update Channel
 
-Public update channel for the [Nokiatis Launcher](https://github.com/itzraynx/nokiatis-luancher-beta-modtint).
+Public update channel for the Nokiatis Launcher.
 
 **This repository contains no source code.** It only hosts:
 
@@ -11,5 +11,4 @@ Public update channel for the [Nokiatis Launcher](https://github.com/itzraynx/no
 
 Update artifacts are signed with minisign (Tauri updater). Launchers verify signatures against the public key embedded at build time.
 
-- Source code: private (`nokiatis-luancher-beta-modtint`)
 - This channel: public, so every player can receive updates
