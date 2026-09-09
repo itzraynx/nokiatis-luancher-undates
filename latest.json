@@ -1,0 +1,51 @@
+{
+  "tag_name": "v0.19.216",
+  "name": "Nokiatis Launcher v0.19.216",
+  "assets": [
+    {
+      "name": "Nokiatis.Launcher-0.19.216-1.x86_64.rpm",
+      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.216/Nokiatis.Launcher-0.19.216-1.x86_64.rpm",
+      "download_count": 0
+    },
+    {
+      "name": "Nokiatis.Launcher_0.19.216_aarch64.dmg",
+      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.216/Nokiatis.Launcher_0.19.216_aarch64.dmg",
+      "download_count": 0
+    },
+    {
+      "name": "Nokiatis.Launcher_0.19.216_amd64.AppImage",
+      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.216/Nokiatis.Launcher_0.19.216_amd64.AppImage",
+      "download_count": 0
+    },
+    {
+      "name": "Nokiatis.Launcher_0.19.216_amd64.deb",
+      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.216/Nokiatis.Launcher_0.19.216_amd64.deb",
+      "download_count": 0
+    },
+    {
+      "name": "Nokiatis.Launcher_0.19.216_arm64-setup.exe",
+      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.216/Nokiatis.Launcher_0.19.216_arm64-setup.exe",
+      "download_count": 0
+    },
+    {
+      "name": "Nokiatis.Launcher_0.19.216_arm64_en-US.msi",
+      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.216/Nokiatis.Launcher_0.19.216_arm64_en-US.msi",
+      "download_count": 0
+    },
+    {
+      "name": "Nokiatis.Launcher_0.19.216_x64-setup.exe",
+      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.216/Nokiatis.Launcher_0.19.216_x64-setup.exe",
+      "download_count": 0
+    },
+    {
+      "name": "Nokiatis.Launcher_0.19.216_x64.dmg",
+      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.216/Nokiatis.Launcher_0.19.216_x64.dmg",
+      "download_count": 0
+    },
+    {
+      "name": "Nokiatis.Launcher_0.19.216_x64_en-US.msi",
+      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.216/Nokiatis.Launcher_0.19.216_x64_en-US.msi",
+      "download_count": 0
+    }
+  ]
+}
