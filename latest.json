@@ -3,58 +3,58 @@
   "name": "Nokiatis Launcher v0.19.219",
   "assets": [
     {
-      "name": "Nokiatis.Launcher-0.19.218-1.x86_64.rpm",
-      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.218/Nokiatis.Launcher-0.19.218-1.x86_64.rpm",
+      "name": "Nokiatis.Launcher-0.19.219-1.x86_64.rpm",
+      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.219/Nokiatis.Launcher-0.19.219-1.x86_64.rpm",
       "download_count": 0,
-      "sha256": "da043b8e48ddc2107443b7e835cba19d195bd805a3c1abe0dcfa2f2140064773"
+      "sha256": "d08b7d8f56456d44b1af891261af73d5819afb1a22a0e26c4c1412fa7be12779"
     },
     {
-      "name": "Nokiatis.Launcher_0.19.218_aarch64.dmg",
-      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.218/Nokiatis.Launcher_0.19.218_aarch64.dmg",
+      "name": "Nokiatis.Launcher_0.19.219_aarch64.dmg",
+      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.219/Nokiatis.Launcher_0.19.219_aarch64.dmg",
       "download_count": 0,
-      "sha256": "b99d7d30263a3f607951b851cdeb918a1b79d2fae76c58f92fa008905a54488a"
+      "sha256": "6af205b672e0466fc7f63b3f07fdfc1172166fbdbc3bb6d3612aa2fca0c0a649"
     },
     {
-      "name": "Nokiatis.Launcher_0.19.218_amd64.AppImage",
-      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.218/Nokiatis.Launcher_0.19.218_amd64.AppImage",
+      "name": "Nokiatis.Launcher_0.19.219_amd64.AppImage",
+      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.219/Nokiatis.Launcher_0.19.219_amd64.AppImage",
       "download_count": 0,
-      "sha256": "3d7001b947765ca66e236e7d55f3afa98c1e2fc1e2a7bacedbcbf6a2dd00a094"
+      "sha256": "07958a649c6fdf5c9ce9b907c1391ab8c5ffdeb095b661875ebd278e025abc5d"
     },
     {
-      "name": "Nokiatis.Launcher_0.19.218_amd64.deb",
-      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.218/Nokiatis.Launcher_0.19.218_amd64.deb",
+      "name": "Nokiatis.Launcher_0.19.219_amd64.deb",
+      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.219/Nokiatis.Launcher_0.19.219_amd64.deb",
       "download_count": 0,
-      "sha256": "d6f68ae72fe3b9a34d4b45af103abfd95d88b5265621785edb12b3d2ad058426"
+      "sha256": "edcec21e7bfe8f895092ce1b18d6e66cd640325d02f76aaae6e4e514cbd8dbfa"
     },
     {
-      "name": "Nokiatis.Launcher_0.19.218_arm64-setup.exe",
-      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.218/Nokiatis.Launcher_0.19.218_arm64-setup.exe",
+      "name": "Nokiatis.Launcher_0.19.219_arm64-setup.exe",
+      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.219/Nokiatis.Launcher_0.19.219_arm64-setup.exe",
       "download_count": 0,
-      "sha256": "886c3871dcf0cad07e0288a0213e305a725da3787a20f2b9debc792858721b44"
+      "sha256": "a1d92c9fcdc774f8fa4d1e0a944224ebe85ba585a9fc883ecb3705d5fe617e7e"
     },
     {
-      "name": "Nokiatis.Launcher_0.19.218_arm64_en-US.msi",
-      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.218/Nokiatis.Launcher_0.19.218_arm64_en-US.msi",
+      "name": "Nokiatis.Launcher_0.19.219_arm64_en-US.msi",
+      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.219/Nokiatis.Launcher_0.19.219_arm64_en-US.msi",
       "download_count": 0,
-      "sha256": "d03ed18513862794c5ac615ea9ab8f011d434cb6c7955bb459808cda9fc40150"
+      "sha256": "1f02177507d66e2d893a49979734da12d936428da04241f399beb46d4b229ca5"
     },
     {
-      "name": "Nokiatis.Launcher_0.19.218_x64-setup.exe",
-      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.218/Nokiatis.Launcher_0.19.218_x64-setup.exe",
+      "name": "Nokiatis.Launcher_0.19.219_x64-setup.exe",
+      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.219/Nokiatis.Launcher_0.19.219_x64-setup.exe",
       "download_count": 0,
-      "sha256": "6965b42af99986d43860feb6cf6a9631f03e364bb123190ced2e828f176d55cd"
+      "sha256": "2b3317273baa54e795bbd15dff8bf4079acc8ef6fce758162c4d29858f53bced"
     },
     {
-      "name": "Nokiatis.Launcher_0.19.218_x64.dmg",
-      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.218/Nokiatis.Launcher_0.19.218_x64.dmg",
+      "name": "Nokiatis.Launcher_0.19.219_x64.dmg",
+      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.219/Nokiatis.Launcher_0.19.219_x64.dmg",
       "download_count": 0,
-      "sha256": "b8983bd20bfb69355731c0b0146d68a963db566ad014996cb6f8ac8efcb68f5f"
+      "sha256": "40950ad060e13666ce199c6d8719836cc34edc5fdc2cebdad6ccd1ebd1b9baf9"
     },
     {
-      "name": "Nokiatis.Launcher_0.19.218_x64_en-US.msi",
-      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.218/Nokiatis.Launcher_0.19.218_x64_en-US.msi",
+      "name": "Nokiatis.Launcher_0.19.219_x64_en-US.msi",
+      "browser_download_url": "https://github.com/itzraynx/nokiatis-luancher-undates/releases/download/v0.19.219/Nokiatis.Launcher_0.19.219_x64_en-US.msi",
       "download_count": 0,
-      "sha256": "12a4980ee227219b1a5bcb2f38cec2f18f60990a32d822de869ef2e516e9da7c"
+      "sha256": "5a3b0d2a04a48dfb11b7c807c5dd07db8ba9211c085889272c43e5758b1034b1"
     }
   ]
 }
