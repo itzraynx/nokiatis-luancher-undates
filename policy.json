@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "force_enabled": true,
-  "force_below": "0.19.216",
+  "force_below": "0.19.217",
   "channel": "stable",
   "notes": "force_enabled is the master kill switch. When true, every launcher strictly below force_below must update before use (online only). Offline launchers get a grace session. Set force_enabled to false to instantly unforce all users."
 }
