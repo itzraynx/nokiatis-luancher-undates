@@ -3,6 +3,7 @@
   "name": "Nokiatis Launcher v0.19.221",
   "force_enabled": true,
   "force_below": "0.19.221",
+  "telemetry_url": "https://nokiatis-update-api.rayanrchouki.workers.dev",
   "assets": [
     {
       "name": "Nokiatis.Launcher-0.19.221-1.x86_64.rpm",
